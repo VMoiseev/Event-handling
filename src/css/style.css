@@ -46,7 +46,7 @@ body {
   flex-wrap: wrap;
   width: 592px;
   margin-top: 25px;
-  cursor: url('../img/molot.png'), pointer;
+  /* cursor: url('../img/molot.png'), pointer; */
 }
 
 .cell {
@@ -65,4 +65,5 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 80%;
+  cursor: url('../img/molot.png'), pointer;
 }
